@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.loco.google.test",
+    "sha256_cert_fingerprints":
+    ["20:9C:4D:08:13:7F:9A:C0:C9:B4:31:AB:E5:D8:92:DA:0E:72:D8:D0:46:A3:B0:3B:F3:A9:3F:77:12:1E:0D:5E"]
+  }
+}]
